@@ -1,0 +1,89 @@
+﻿body {
+    font-family: Arial, Verdana;
+}
+
+.login {
+    float:  left;
+}
+
+.username {
+    padding: 3px;
+    width:   75px;
+    float:   left;
+}
+
+.password {
+    padding: 3px;
+    width:   75px;
+    float:   left;
+}
+
+.action {
+    float:  left;
+    width:  48px;
+    height: 48px;
+    margin-top: 3px;
+}
+
+.controls {
+    border: 1px solid black;
+    width:  320px;
+    height: 64px;
+    padding-top: 7px;
+}
+
+.input {
+    padding: 3px;
+    float:   left;
+}
+
+.error {
+    color: red;
+}
+
+.clear {
+    clear: both;
+}
+
+
+/* Repeater  */
+thead {
+    text-align: left;
+}
+.itemRow {
+    background-color: #ebebeb;
+}
+
+.altitemRow {
+    background-color: white;
+}
+
+.datacellID {
+    width: 30px;
+}
+
+.datacellFN {
+    width: 150px;
+}
+
+.datacellLN {
+    width: 150px;
+}
+
+.datacellEM {
+    width: 250px;
+}
+
+.datacellCN {
+    width: 150px;
+}
+
+.datacell {
+    width: 50px;
+    text-align: right;
+}
+
+.commit {
+    width: 805px;
+    text-align: right;
+}

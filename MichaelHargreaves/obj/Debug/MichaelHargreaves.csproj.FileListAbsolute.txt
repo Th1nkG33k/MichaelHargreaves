@@ -1,0 +1,5 @@
+c:\source\MichaelHargreaves\MichaelHargreaves\bin\Debug\MichaelHargreaves.exe
+c:\source\MichaelHargreaves\MichaelHargreaves\bin\Debug\MichaelHargreaves.pdb
+c:\source\MichaelHargreaves\MichaelHargreaves\obj\Debug\MichaelHargreaves.csprojResolveAssemblyReference.cache
+c:\source\MichaelHargreaves\MichaelHargreaves\obj\Debug\MichaelHargreaves.exe
+c:\source\MichaelHargreaves\MichaelHargreaves\obj\Debug\MichaelHargreaves.pdb
